@@ -5,6 +5,9 @@
     <classes>
       <class name="tests.normalFlow.FooterLinkValidation">
         <methods>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="afterMathod"/>
           <include name="beforeMethod"/>
           <include name="TC1_DiscountCoupons"/>
         </methods>

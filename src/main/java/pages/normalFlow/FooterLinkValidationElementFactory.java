@@ -1,4 +1,4 @@
-package pages.normalFlow;
+package main.java.pages.normalFlow;
 
 import java.util.List;
 

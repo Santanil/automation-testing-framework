@@ -2,35 +2,35 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-25T23:06:45 IST" name="Default suite" finished-at="2023-06-25T23:07:14 IST" duration-ms="29046">
+  <suite started-at="2023-06-26T11:26:22 IST" name="Default suite" finished-at="2023-06-26T11:26:35 IST" duration-ms="13085">
     <groups>
     </groups>
-    <test started-at="2023-06-25T23:06:45 IST" name="Default test" finished-at="2023-06-25T23:07:14 IST" duration-ms="29046">
+    <test started-at="2023-06-26T11:26:22 IST" name="Default test" finished-at="2023-06-26T11:26:35 IST" duration-ms="13085">
       <class name="tests.normalFlow.FooterLinkValidation">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20]" started-at="2023-06-25T23:06:45 IST" name="beforeSuite" finished-at="2023-06-25T23:06:45 IST" duration-ms="244" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718]" started-at="2023-06-26T11:26:21 IST" name="beforeSuite" finished-at="2023-06-26T11:26:22 IST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20]" started-at="2023-06-25T23:06:45 IST" name="beforeMethod" finished-at="2023-06-25T23:06:51 IST" duration-ms="6105" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718]" started-at="2023-06-26T11:26:22 IST" name="beforeMethod" finished-at="2023-06-26T11:26:24 IST" duration-ms="2066" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="TC1_DiscountCoupons()[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20]" started-at="2023-06-25T23:06:51 IST" name="TC1_DiscountCoupons" finished-at="2023-06-25T23:07:13 IST" duration-ms="22124" status="PASS">
+        <test-method signature="TC1_DiscountCoupons()[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718]" started-at="2023-06-26T11:26:24 IST" name="TC1_DiscountCoupons" finished-at="2023-06-26T11:26:34 IST" duration-ms="10801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1_DiscountCoupons -->
-        <test-method is-config="true" signature="afterMathod(org.testng.ITestResult)[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20]" started-at="2023-06-25T23:07:13 IST" name="afterMathod" finished-at="2023-06-25T23:07:14 IST" duration-ms="766" status="PASS">
+        <test-method is-config="true" signature="afterMathod(org.testng.ITestResult)[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718]" started-at="2023-06-26T11:26:34 IST" name="afterMathod" finished-at="2023-06-26T11:26:35 IST" duration-ms="192" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC1_DiscountCoupons status=SUCCESS method=FooterLinkValidation.TC1_DiscountCoupons()[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20] output={null}]]]>
+                <![CDATA[[TestResult name=TC1_DiscountCoupons status=SUCCESS method=FooterLinkValidation.TC1_DiscountCoupons()[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMathod -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.normalFlow.FooterLinkValidation@55183b20]" started-at="2023-06-25T23:07:14 IST" name="afterSuite" finished-at="2023-06-25T23:07:14 IST" duration-ms="114" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.normalFlow.FooterLinkValidation@77847718]" started-at="2023-06-26T11:26:35 IST" name="afterSuite" finished-at="2023-06-26T11:26:35 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

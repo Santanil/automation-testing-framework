@@ -16,6 +16,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
+import main.java.pages.normalFlow.FooterLinkValidationElementFactory;
+
 public class FooterLinkValidationPage extends FooterLinkValidationElementFactory{
 	@FindBy(xpath = "(//table[@class='gf-t']//ul)[1]/li")
 	public static List<WebElement> footerLinks;
